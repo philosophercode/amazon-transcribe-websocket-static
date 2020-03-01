@@ -45,3 +45,7 @@ body {
 .small-caps {
     font-variant: small-caps;
 }
+ canvas {
+    width: 600px;
+    height: 300px;
+ }
